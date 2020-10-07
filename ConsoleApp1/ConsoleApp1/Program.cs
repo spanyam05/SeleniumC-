@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Console.ReadKey();
             Console.WriteLine("New Reporsitory1");
             Console.ReadKey();
+            Console.WriteLine("New Reporsitory2");
+            Console.ReadKey();
         }
     }
 }
